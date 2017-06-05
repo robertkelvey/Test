@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1496680449 "Activity1.tex" "Activity1.pdf" "Activity1" 1496680449
+["pdflatex"] 1496687114 "Activity1.tex" "Activity1.pdf" "Activity1" 1496687116
   "/etc/texmf/web2c/texmf.cnf" 1451279782 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/projects/2537ceb8-2026-4006-bfef-f93d62ceb880/texmf/tex/latex/ximeraLatex/ximera.cls" 1496672100 40037 52c32e9e88db3bdd20c7c3d0afed3cfc ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -220,16 +220,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1435377840 31349 7675f8adfbe12aae865d340d35423a49 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1451280532 1779312 b2f993ff39f888114b7dddf8751f0ae0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1451280631 3844840 0178e63c8b2340590a930df0c9c14936 ""
-  "Activity1.aux" 1496680449 793 258fea09413a39aad0d527641de84e7e ""
-  "Activity1.out" 1496680449 58 9ac1019130f52022818be8e6583cba05 ""
+  "Activity1.aux" 1496687115 793 258fea09413a39aad0d527641de84e7e ""
+  "Activity1.out" 1496687115 58 9ac1019130f52022818be8e6583cba05 ""
   "Activity1.sagetex.sout" 1496678085 243 7b99e22637247a2b042e99e50ea1c769 ""
-  "Activity1.tex" 1496680448 209 83e6de6711c2ed627bf62261f2dfa300 ""
+  "Activity1.tex" 1496687113 208 24d50e46e5ffc3bd6fbeb67e96b04dae ""
   (generated)
-  "Activity1.aux"
-  "Activity1.jax"
-  "Activity1.log"
-  "Activity1.oc"
-  "Activity1.ids"
-  "Activity1.sagetex.sage"
   "Activity1.out"
+  "Activity1.oc"
+  "Activity1.aux"
+  "Activity1.sagetex.sage"
   "Activity1.pdf"
+  "Activity1.log"
+  "Activity1.jax"
+  "Activity1.ids"
