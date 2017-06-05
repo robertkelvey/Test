@@ -311,8 +311,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 OUTPUT Activity1.oc
 OUTPUT Activity1.ids
 OUTPUT Activity1.jax
-INPUT ../preamble.tex
-INPUT ../preamble.tex
 INPUT Activity1.aux
 INPUT Activity1.aux
 OUTPUT Activity1.aux
