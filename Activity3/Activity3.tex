@@ -12,10 +12,47 @@
 \begin{document}
 \maketitle
 
-\begin{tabular}{c|c}
-    $\sin x$ & $\cos x$ \\
-    $\tan x$ & $\sec x$ 
-\end{tabular}
+%\begin{tabular}{c|c}
+ %   $\sin x$ & $\cos x$ \\
+  %  $\tan x$ & $\sec x$ 
+%\end{tabular}
 
+Using your favorite computer algebra system, answer the following questions. Include an image of your graphs along with your answers, so the instructor may see your progress in your lab submission. 
+
+\begin{enumerate}
+\item{Graph the function $f(x)=x^3+12x^2+4$.}
+
+\begin{enumerate}
+\item{Indicate the intervals which have positive and negative slopes, and indicate the locations at which the slope changes sign. At these points, please indicate if the slope is changing from positive to negative or negative to positive. What do you expect the derivative to be at these points?}
+\item{Using your CAS, determine the derivative of the given function. Then, evaluate the derivative at the points you indicated, as well as a point on each interval you indicated. Were you correct in your prediction in (a)? What can you predict about a graph at a point where the derivative is 0?}
+\item{Create a number line, and mark the points where derivative was zero. Between these points, mark the sign of the derivative of any point on that interval.(You may do this by hand as it is difficult to format using most CAS systems) What do you notice? What can we say about a point with a derivative of zero when the sign changes from positive to negative? What about negative to positive?}
+\end{enumerate}
+
+\begin{dialogue}
+\item[Julia] So we have local maxima and minima when the derivative is 0, but what about the graph of $x^3$?
+\end{dialogue}
+
+
+\begin{image}
+\begin{tikzpicture}
+\begin{axis}[axis lines=center]
+\addplot [mark=none] {x^3};
+\end{axis}
+\end{tikzpicture}
+\end{image}
+
+
+
+\begin{dialogue}
+\item[Dylan] Hmmm...I guess that means there are three different kinds of critical points! Two when the sign changes and one when it stays the same!
+\item[Julia] Wait... what's a critical point?
+\item[Dylan] Any point where the derivative is zero or does not exist! Because we know it's important, but we have to check to see what it means with our number line!
+\item[James] You guys are still figuring that out? I'm already determining concavity!
+\item[Dylan and Julia] Holy cat fur! What's concavity?!
+\item[James] A graph is \textit{concave up when its derivative is increasing}, and \textit{concave down when its derivative is decreasing}. The easiest way to tell is to look at the curve and think `Would this hold water?' If it would, it's concave up, and if not, it's concave down!
+\item[Dylan and Julia] Wow! Thanks James!
+\end{dialogue}
+
+\end{enumerate}
 
 \end{document}
